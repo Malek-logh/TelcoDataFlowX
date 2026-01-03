@@ -181,3 +181,5 @@ Interactive web application for real-time churn prediction:
 
 For questions regarding this project, contact:
 **Akram Haggui** - akramhaggui2@gmail.com
+**Malek Loghmari** - loghmarimalek@hotmail.com
+
